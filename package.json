@@ -1,0 +1,25 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "author": "Kenny G Perez",
+  "license": "ISC",
+  "homepage": "https://github.com/kennygperez/leetcode#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennygperez/leetcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kennygperez/leetcode/issues"
+  },
+  "scripts": {
+    "format": "prettier . --write"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "prettier": "3.0.3"
+  }
+}
